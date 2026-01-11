@@ -85,8 +85,11 @@
 <h2 align="left">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azizulislamefath&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizulislamefath&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=azizulislamefath&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizulislamefath&layout=compact&theme=dark" />
 </div>
 
 <h2 align="center">🐍 Contribution Snake</h2>
