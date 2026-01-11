@@ -16,7 +16,10 @@
 📫 I believe in <b>learning by building</b> and improving step-by-step.
 </h4>
 
----
+
+<div align="center">
+  <img height="150" src="https://i.redd.it/n8agw6z2smyb1.gif"/>
+</div>
 
 <h2 align="left">🛠️ Tech Stack</h2>
 
@@ -62,17 +65,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30"/>
 </div>
 
----
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azizulislamefath&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizulislamefath&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</div>
-
----
-
 <h2 align="left">🌐 Connect With Me</h2>
 
 <div align="left">
@@ -90,7 +82,12 @@
   </a>
 </div>
 
----
+<h2 align="left">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azizulislamefath&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizulislamefath&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</div>
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
@@ -98,8 +95,4 @@
   <img src="https://github.com/azizulislamefath/azizulislamefath/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
----
 
-<div align="center">
-  <img height="150" src="https://i.redd.it/n8agw6z2smyb1.gif"/>
-</div>
