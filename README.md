@@ -1,9 +1,5 @@
 <br clear="both">
 
-<h1 align="center">👋 Hi, I'm Azizul Islam</h1>
-<h3 align="center">Software Engineering Student | Aspiring Cyber Security Expert</h3>
-
----
 
 <h4 align="left">
 💫 <b>About Me:</b><br><br>
