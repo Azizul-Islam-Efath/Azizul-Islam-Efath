@@ -85,17 +85,23 @@
 <h2 align="left">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azizulislamefath&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Azizul-Islam-Efath&show_icons=true&theme=dark&count_private=true&include_all_commits=true"
+    height="150"
+  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizulislamefath&layout=compact&theme=dark" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azizul-Islam-Efath&layout=compact&theme=dark"
+    height="150"
+  />
 </div>
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
-  <img src="https://github.com/azizulislamefath/azizulislamefath/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Azizul-Islam-Efath/Azizul-Islam-Efath/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 
