@@ -92,5 +92,5 @@
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Azizul-Islam-Efath/Azizul-Islam-Efath/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Azizul-Islam-Efath/Azizul-Islam-Efath/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
