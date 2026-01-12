@@ -1,6 +1,5 @@
 <br clear="both">
 
-
 <h4 align="left">
 💫 <b>About Me:</b><br><br>
 👋 Hi, I’m <b>Azizul Islam</b>.<br><br>
@@ -11,7 +10,6 @@
 <b>React, Next.js & Node.js</b>.<br>
 📫 I believe in <b>learning by building</b> and improving step-by-step.
 </h4>
-
 
 <div align="center">
   <img height="150" src="https://i.redd.it/n8agw6z2smyb1.gif"/>
@@ -82,14 +80,11 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Azizul-Islam-Efath&show_icons=true&theme=dark&count_private=true&include_all_commits=true"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Azizul-Islam-Efath&show_icons=true&theme=dark&count_private=true&include_all_commits=true"
     height="150"
   />
-</div>
-
-<div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azizul-Islam-Efath&layout=compact&theme=dark"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Azizul-Islam-Efath&layout=compact&theme=dark"
     height="150"
   />
 </div>
@@ -97,7 +92,5 @@
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
-  <img src="https://github.com/Azizul-Islam-Efath/Azizul-Islam-Efath/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Azizul-Islam-Efath/Azizul-Islam-Efath/output/github-contribution-grid-snake.svg" />
 </div>
-
-
