@@ -15,7 +15,7 @@
   <img height="150" src="https://i.redd.it/n8agw6z2smyb1.gif"/>
 </div>
 
-<h2 align="left">🛠️ Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
