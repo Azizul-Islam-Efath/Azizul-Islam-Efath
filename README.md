@@ -79,10 +79,7 @@
 <h2 align="center">GitHub Stats </h2>
 
 <div align="center">
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Azizul-Islam-Efath&show_icons=true&theme=dark&count_private=true&include_all_commits=true"
-    height="150"
-  />
+  ![](https://nirzak-streak-stats.vercel.app/?user=Azizul-Islam-Efath&theme=dark&hide_border=true)
   <img
     src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Azizul-Islam-Efath&layout=compact&theme=dark"
     height="150"
