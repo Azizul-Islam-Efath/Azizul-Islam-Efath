@@ -8,7 +8,7 @@
 ⚡ I actively practice on <b>TryHackMe</b> and <b>Hack The Box</b>.<br>
 ⚡ Exploring <b>Network Security</b> and building responsive applications using
 <b>React, Next.js & Node.js</b>.<br>
-📫 I believe in <b>learning by building</b> and improving step-by-step.
+⚡ I believe in <b>learning by building</b> and improving step-by-step.
 </h4>
 
 <div align="center">
@@ -59,7 +59,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30"/>
 </div>
 
-<h2 align="left">🌐 Connect With Me</h2>
+<h2 align="left">Connect With Me</h2>
 
 <div align="left">
   <a href="https://www.facebook.com/share/1Cq1sEEL9k/" target="_blank">
@@ -76,7 +76,7 @@
   </a>
 </div>
 
-<h2 align="left">📊 GitHub Stats </h2>
+<h2 align="left">GitHub Stats </h2>
 
 <div align="center">
   <img
@@ -89,7 +89,7 @@
   />
 </div>
 
-<h2 align="center">🐍 Contribution Snake </h2>
+<h2 align="center">Contribution Snake </h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Azizul-Islam-Efath/Azizul-Islam-Efath/output/github-contribution-grid-snake.svg" />
