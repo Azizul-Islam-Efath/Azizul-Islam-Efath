@@ -76,15 +76,14 @@
   </a>
 </div>
 
-<h2 align="center">GitHub Stats </h2>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  ![](https://nirzak-streak-stats.vercel.app/?user=Azizul-Islam-Efath&theme=dark&hide_border=true)
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Azizul-Islam-Efath&layout=compact&theme=dark"
-    height="150"
-  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Azizul-Islam-Efath&theme=dark&hide_border=true" height="170"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azizul-Islam-Efath&layout=compact&theme=dark&hide_border=true" height="150"/>
 </div>
+
 
 <h2 align="center">Contribution Snake </h2>
 
