@@ -80,8 +80,8 @@
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Azizul-Islam-Efath&theme=dark-aura&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Azizul-Islam-Efath&layout=compact&theme=dark" height="150" />
+    src="https://streak-stats.demolab.com?user=Azizul-Islam-Efath&theme=buefy-dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Azizul-Islam-Efath&layout=compact&theme=dark&hide_border=true" height="150" />
 </div>
 
 
